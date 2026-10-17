@@ -41,5 +41,4 @@ The source code and the live app are private. This page describes what it does a
 ![alt text](<ana c.png>)
 ![alt text](<alert c.png>)
 
-(add images from the screenshots folder)
 
